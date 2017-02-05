@@ -78,6 +78,18 @@ $(document).ready(function () {
    a= a.concat(c,d);
     alert(a);*/
 
+// $('#a').click(function () {
+//     $('div').slideDown(5000, function () {
+//         // console.log("hide complete");
+//     });
+// })
 
-$('div,p').hide()
+/*
+$('#b').click(function () {
+    $('div').fadeIn(5000, function () {
+        console.log("show complete")
+    });
+})
+*/
+
 });
